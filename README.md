@@ -1,3 +1,5 @@
 # hello-world
 mental storage closet for ideas
-Still learning howto use this site
+Still learning how to use this site
+
+Toronto Music Scene site fully designed.
